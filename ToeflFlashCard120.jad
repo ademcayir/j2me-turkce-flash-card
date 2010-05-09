@@ -1,0 +1,8 @@
+MIDlet-Version: 0.9.0
+MIDlet-Icon: icon.png
+MIDlet-Vendor: xcorp
+MIDlet-Jar-URL: toefl.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: Toefl Flash Card,/icon.png,z.Starter
+MIDlet-Name: Toefl Flash Card
